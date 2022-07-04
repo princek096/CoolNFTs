@@ -149,11 +149,11 @@ const Footer = () => {
         </MenuItems>
       </Container>
       <Bottom>
-        <span>&copy; 2022 Wala Wele Club. All rights reserved.</span>
+        <span>&copy; 2022 CoolDude Club. All rights reserved.</span>
         <span>
           Made with &#10084; by{' '}
           <a href="http://github.com" target="_blank" rel="noopener noreferrer">
-            Wala Wele Team
+           CoolDude Team
           </a>
         </span>
       </Bottom>

@@ -96,7 +96,7 @@ const TypeWriterText = () => {
           }}
         />
       </Title>
-      <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+      <SubTitle>Bored Of Apes? Try Something Cool.</SubTitle>
       <ButtonContainer>
         <Button text="Explore" link="#about" />
       </ButtonContainer>

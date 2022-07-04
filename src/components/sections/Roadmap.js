@@ -171,27 +171,27 @@ const Roadmap = () => {
           <RoadMapItem
             addToRefs={addToRefs}
             title="Grand Opening"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            subtext="CoolDude release 1000 cools characte , launch of CoolDude mania, Social and Marketing."
           />
           <RoadMapItem
             addToRefs={addToRefs}
             title="Great Benefits"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            subtext="Introduction of the airdrops for all the CoolDuders in the mania."
           />
           <RoadMapItem
             addToRefs={addToRefs}
             title="Early Access"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            subtext="Get Early Access to the entertainment shows in the meta world for the limited audience CooldDuders."
           />
           <RoadMapItem
             addToRefs={addToRefs}
             title="New Merch"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            subtext="Will release CoolDude69 merch which depicts the premium CoolDude of the mania."
           />
           <RoadMapItem
             addToRefs={addToRefs}
             title="Holders Ranking"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            subtext="Ranking system where you will be ranked on the basis of your CoolDudeness score."
           />
         </Items>
       </Container>

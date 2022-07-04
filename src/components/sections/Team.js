@@ -118,23 +118,28 @@ const Team = () => {
       <Container>
         <MemberComponent
           img={img6}
-          name="altrawan"
+          name="OmP"
           position="founder &amp; Backend Developer"
         />
         <MemberComponent
           img={img7}
-          name="sereinisme"
+          name="Prince"
           position="founder &amp; Frontend Developer"
         />
         <MemberComponent
           img={img3}
-          name="ranu nadea"
+          name="Mandrin"
           position="co-founder &amp; content creator"
         />
         <MemberComponent
           img={img9}
-          name="dio mortez"
+          name="Mave"
           position="artist &amp; graphic designer"
+        />
+        <MemberComponent
+          img={img6}
+          name="Chandler"
+          position="Social &amp; Marketing Head"
         />
       </Container>
     </Section>

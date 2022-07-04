@@ -100,15 +100,15 @@ const Banner = () => {
   return (
     <Section>
       <ImgContainer>
-        <img src={img1} alt="The Wala Wele" />
-        <img src={img2} alt="The Wala Wele" />
-        <img src={img3} alt="The Wala Wele" />
-        <img src={img4} alt="The Wala Wele" />
-        <img src={img5} alt="The Wala Wele" />
-        <img src={img6} alt="The Wala Wele" />
+        <img src={img1} alt="The CoolDude" />
+        <img src={img2} alt="The CoolDude" />
+        <img src={img3} alt="The CoolDude" />
+        <img src={img4} alt="The CoolDude" />
+        <img src={img5} alt="The CoolDude" />
+        <img src={img6} alt="The CoolDude" />
       </ImgContainer>
       <Title>
-        Join the <br /> wala wele club
+        Join the <br /> CoolDude club
       </Title>
       <BtnContainer>
         <JoinNow>Join Now</JoinNow>

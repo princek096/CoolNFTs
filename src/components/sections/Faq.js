@@ -60,7 +60,7 @@ const Faq = () => {
 
   return (
     <Section ref={ref} id="faq">
-      <Title>Faq</Title>
+      <Title>FAQ</Title>
       <Container>
         <Box>
           <Accordion title="WHERE CAN I VIEW MY NFTS?">
@@ -88,11 +88,11 @@ const Faq = () => {
             our future video game. Holding also means that you are part of an
             exclusive network of investors and entrepreneurs.
           </Accordion>
-          <Accordion title="WHAT ARE THE WALA WELE?">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
+          <Accordion title="WHAT ARE THE COOLDUDE?">
+          CoolDude is a person who is always calm, sociable, has great sense in music,
+           doesnt have any problems whatsoever and is a persone to talk to when you have aproblem 
+           (almost every time he has the solution) or this guy is so confedent that he really doesnt 
+           mind being bothered.
           </Accordion>
           <Accordion title="WHAT IS THE FUSION PROCESS?">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
