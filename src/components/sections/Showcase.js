@@ -132,7 +132,7 @@ const NftItem = ({ img, number = 0, price = 0, passRef }) => {
       <img src={img} alt="The Wala Wele" />;
       <Details>
         <div>
-          <span>Wala Wele</span> <br />
+          <span>CoolDude</span> <br />
           <h1>#{number}</h1>
         </div>
 
