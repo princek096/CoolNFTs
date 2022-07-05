@@ -6,7 +6,7 @@ const ConfettiComponent = () => {
   const { width, height } = useWindowSize();
   return (
     <Confetti
-      numberOfPieces={150}
+      numberOfPieces={200}
       gravity={0.01}
       width={width}
       height={height}

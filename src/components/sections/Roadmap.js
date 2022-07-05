@@ -216,7 +216,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRefs={addToRefs}
             title="Grand Opening"
-            subtext="CoolDude release 1000 cools characte , launch of CoolDude mania, Social and Marketing."
+            subtext="CoolDude release 1000 cools characters , launch of CoolDude mania, Socials and Marketing at worldwide level."
           />
           <RoadMapItem
             addToRefs={addToRefs}
@@ -231,7 +231,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRefs={addToRefs}
             title="New Merch"
-            subtext="Will release CoolDude69 merch which depicts the premium CoolDude of the mania."
+            subtext="Will release CoolDude69 merch which depicts the premium CoolDudes of the mania."
           />
           <RoadMapItem
             addToRefs={addToRefs}
